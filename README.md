@@ -3,10 +3,10 @@ Projeto realizado na máteria de Programação Web na instituição FHO em 2019.
 
 
 ----------------------------------------
-Participantes:
-\nCarlos Henrique Beraldo de Paiva
-\nHiago Andrade Lopes Moreira
-\nJoão Vitor Casarin
+Participantes:  
+Carlos Henrique Beraldo de Paiva  
+Hiago Andrade Lopes Moreira  
+João Vitor Casarin  
 
 
 
