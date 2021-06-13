@@ -5,7 +5,9 @@ Projeto realizado na máteria de Programação Web na instituição FHO em 2019.
 ----------------------------------------
 *Participantes:*  
 Carlos Henrique Beraldo de Paiva - @CarlosBeraldo  
+
 Hiago Andrade Lopes Moreira - @hiagomoreira
+
 João Vitor Casarin - @joaocasarin
 
 
